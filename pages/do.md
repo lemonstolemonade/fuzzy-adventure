@@ -3,7 +3,7 @@ layout: page
 title : Do 
 permalink: /do/
 subtitle: "Taking action" 
-feature-img: "assets/img/jarsPitchersLemonade.png"
+feature-img: "assets/img/jarsPitchersLemonade.jpeg"
 tags: [Archive]
 ---
 
