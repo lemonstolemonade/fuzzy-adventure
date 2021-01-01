@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Gallery
+title: Dream
 subtitle: From the pexels folder
-permalink: /gallery/
-gallery_path: "assets/img/pexels"
-tags: [Gallery, Photo]
+permalink: /dream/
+gallery_path: assets/img/pexels
+tags:
+  - Gallery
+  - Photo
+published: true
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to create automatically a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+Whenever I have an image that can tell the story of something I'm dreaming, I just upload it to the gallery folder, and it is brought to life on this site. It is a dreamboard... visionboard... step toward that next chapter.
 
 
 {% include gallery.html gallery_path=page.gallery_path %}
