@@ -1,8 +1,8 @@
 --- 
 layout: page
-title : Discover 
-permalink: /discover/
-subtitle: "Research: possible recipe items" 
+title : Do 
+permalink: /do/
+subtitle: "Taking action" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
