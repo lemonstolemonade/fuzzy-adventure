@@ -1,6 +1,6 @@
 ---
 title: Document
-layout: home
+layout: page
 subtitle: Gathering documentation
 ---
 It is crucial that what goes on in this house and family is documented. It is a tool to remind me how sick it is when the day seems normal or when we are 'playing house' like nothing is wrong. It will show where gaslighting and manipulation tactics are being used. 
