@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: Discuss
 permalink: /discuss/
 feature-img: assets/img/pexels/travel.jpeg
-tags:
-  - About
-  - Archive
 published: true
 ---
+
+{% include portfolio.html %}
 
