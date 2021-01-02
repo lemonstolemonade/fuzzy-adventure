@@ -6,5 +6,5 @@ feature-img: assets/img/pexels/travel.jpeg
 published: true
 ---
 
-{% include portfolio.html %}
+{% include discuss.html %}
 
