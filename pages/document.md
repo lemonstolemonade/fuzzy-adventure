@@ -1,13 +1,10 @@
----
-title: Document
+--- 
 layout: page
-subtitle: Gathering documentation
-published: true
-feature-img: assets/img/lemonsBottleLemonade.jpeg
+title : Document 
+permalink: /document/
+subtitle: "Document: put the details in one place" 
+feature-img: "assets/img/lemonsBottleLemonade.jpeg"
+tags: [Archive]
 ---
 
-
-
-
-
-
+{% include document.html %}
