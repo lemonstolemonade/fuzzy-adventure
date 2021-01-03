@@ -37,6 +37,15 @@ collections:
   documentation:
     output: true
     permalink: /:collection/:name
+  discuss:
+    output: true
+    permalink: /:collection/:name
+  discover:
+    output: true
+    permalink: /:collection/:name
+  do:
+    output: true
+    permalink: /:collection/:name
   portfolio:
     output: true
     permalink: /:collection/:name
