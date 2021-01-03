@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Circus				       # Title of the portfolio post
-feature-img: "assets/img/portfolio/cake.png"   # Will display the image in the post
-img: "assets/img/portfolio/cake.png"           # Will display the image in the portfolio page
-date: 2021-01-01		 	       # Not mandatory, however needs to be in date format to display the date
+title: Circus
+feature-img: assets/img/portfolio/cake.png
+img: assets/img/portfolio/cake.png
+date: {}
+published: true
 ---
 
 
 this is the initial list that i have to go back and detail
 more files will be created with lists for each new day. 
 as items are documented, there will be a link so that the details can be seen. some will be tables, and some will be blog posts. some may be both!
+
 1. purposely waking me up when he came home and he's mad, will never get over it 
 1. never getting the after midnight text request (the ONE "rule")
 1. Elvie nearly broke his toe
@@ -222,11 +224,3 @@ as items are documented, there will be a link so that the details can be seen. s
 1. says "This is me asking you nicely!" like a threat?
 1. he can reschedule anything, and I cannot
 1. he can start serious conversation at 10 pm, but he's too tired to talk at 8 pm
-
-
-
-
-
-
-
-
