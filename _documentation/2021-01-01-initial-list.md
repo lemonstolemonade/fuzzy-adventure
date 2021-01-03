@@ -1,3 +1,12 @@
+---
+layout: post
+title: Circus				       # Title of the portfolio post
+feature-img: "assets/img/portfolio/cake.png"   # Will display the image in the post
+img: "assets/img/portfolio/cake.png"           # Will display the image in the portfolio page
+date: 2021-01-01		 	       # Not mandatory, however needs to be in date format to display the date
+---
+
+
 this is the initial list that i have to go back and detail
 more files will be created with lists for each new day. 
 as items are documented, there will be a link so that the details can be seen. some will be tables, and some will be blog posts. some may be both!
